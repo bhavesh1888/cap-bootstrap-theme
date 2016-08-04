@@ -1,0 +1,23 @@
+{
+  "name": "cap-bootstrap-themes",
+  "version": "0.0.0",
+  "authors": [
+    "bhavesh1888 <goswami.bhavesh@capillarytech.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.2.0",
+    "bootstrap-sass-official": "~3.2.0"
+  }
+}
